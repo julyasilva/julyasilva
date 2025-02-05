@@ -6,7 +6,10 @@ Olá , Seja Bem Vindo ao meu Perfil
   - Curso de Front-and.
   - Passar no vestibular.
   - Criar projetos.
-    
+
+🚀 Apaixonado por tecnologia e desenvolvimento web.  
+💻 Trabalhando com **HTML**, **CSS**, e **JavaScript**.  
+🎯 Sempre buscando aprender mais!
 
 
 
