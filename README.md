@@ -1,6 +1,6 @@
 Olá , Seja Bem Vindo ao meu Perfil
 ---------------------------------------------------------------------------------------------------------------------------------
-📚 Estou cursando o curso e TI no Ensino Médio 
+📚 Estou cursando o curso de TI no Ensino Médio 
 
 📌 Objetivos Gerais
   - Curso de Front-and.
