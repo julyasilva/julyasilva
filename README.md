@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 <h1>E aí, eu sou a Julya 👩‍💻</h1>
 <h2>Estudante do Colégio Victorino</h2>
 <p align="center">
