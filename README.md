@@ -1,4 +1,4 @@
-<h1 align="center">E aí, eu sou a Julya 👩‍💻</h1>
+<h1>E aí, eu sou a Julya 👩‍💻</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150">
 </p>
