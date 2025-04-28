@@ -10,7 +10,7 @@
 
 - 🔭 Atualmente trabalhando em projetos de estudo e um sistema bancário 🔐  
 - 🌱 Aprendendo Node.js, lógica de programação e design interativo  
-- 😍 Amo codar com um toque sombrio e estético (tipo RPG de vampiro 🧛‍♀️✨)
+- 😍 Amo codar com um toque sombrio e estético 
 
 ## 💡 Stack atual:
 <div>
